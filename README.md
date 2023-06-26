@@ -1,6 +1,7 @@
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
-![imagem portfolio](https://github.com/kamillejc/portfolio/assets/122493424/283403a3-200c-4075-88e5-cac4e90b4093)
+![imagem portfolio](https://github.com/kamillejc/portfolio/assets/122493424/1d030663-c83b-4966-82fc-17b2a53b2b65)
+
 
 ## Ferramentas utilizadas:
 
